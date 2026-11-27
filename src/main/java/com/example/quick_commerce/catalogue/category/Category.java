@@ -1,4 +1,4 @@
-package com.example.quick_commerce.catalogue;
+package com.example.quick_commerce.catalogue.category;
 
 import jakarta.persistence.*;
 import lombok.Getter;

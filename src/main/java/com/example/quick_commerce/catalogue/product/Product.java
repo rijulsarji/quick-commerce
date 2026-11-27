@@ -1,5 +1,6 @@
-package com.example.quick_commerce.catalogue;
+package com.example.quick_commerce.catalogue.product;
 
+import com.example.quick_commerce.catalogue.category.Category;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
